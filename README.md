@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Phillip, a software engineer based in Washington who worked on developing new features for backend services at VMware Cloud on AWS. 
+I'm Phillip, a software engineer based in Washington who has worked on developing new features for backend services at VMware Cloud on AWS. 
 
 I have worked primarily in Java and Python and have experience with Spring framework.
 
