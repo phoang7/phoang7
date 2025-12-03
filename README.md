@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Phillip, a software engineer based in Washington who worked on developing new features for backend services at VMware Cloud on AWS. 
+
+I have worked primarily in Java and Python and have experience with Spring framework.
+
+I enjoy solving challenging problems and designing software, and am always looking to learn/grow!
 <!--
 **phoang7/phoang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
